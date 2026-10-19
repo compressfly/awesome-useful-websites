@@ -9,7 +9,6 @@ Explore the internet's hidden gems with this list of awesome useful websites!
 <br>
 
 Most of these websites are gathered from:
-<img width="132" height="158" alt="image" src="https://github.com/user-attachments/assets/9ff52f57-4b41-4ea6-a54d-f6d90d8c3883" />
 
 - [producthunt.com](https://www.producthunt.com/)
 - [reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
